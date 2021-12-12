@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Stick+No+Bills&display=swap');
+h1{
+    color: #626e36;
+    font-family: 'Stick No Bills', sans-serif;
+}
+
+
+h2{
+    color: rgb(70,99,110);
+    font-family: 'Stick No Bills', sans-serif;
+}
+
+
+h3{
+    color: hsl(230, 40%,80%);
+    font-family:  'Bonheur Royale', cursive;
+}
+
+h4{
+    color: palevioletred;
+    font-family:  'Bonheur Royale', cursive;
+    font-size: 30px;
+}

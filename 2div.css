@@ -1,0 +1,24 @@
+#id1{color: rgb(106, 106, 245);}               /* id Selector */
+.cls1{color: rgb(67, 198, 238);}      /* class Selector */
+h1{color: peru;}                /* tag Selector */
+
+
+div{
+    color:rgb(245, 126, 126);
+border: solid 1px lightgreen;
+height: 300px;
+width: 500px;
+float: left;
+}/* tag Selector */
+
+
+img{
+    width: 100%;
+    height: 69%;
+}
+
+#pa{text-align: center;}
+
+div p{
+    text-align: center;
+}/*disented selector*/

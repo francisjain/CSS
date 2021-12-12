@@ -1,0 +1,27 @@
+.parent{
+    background-color: cornflowerblue;
+    height: 350px;
+    width: 560px;
+    position: relative;
+}
+
+.ch{
+    height: 326px;
+    width: 100px;
+}
+
+.ch1{ background-color: crimson;
+    position: absolute; 
+    top: 12px; left:10px ;}
+.ch2{ background-color: rgb(240, 173, 30);
+    position: absolute; 
+    top: 12px; left:120px ;}
+.ch3{ background-color: rgb(204, 245, 56);
+    position: absolute; 
+    top: 12px; left:230px ;}
+.ch4{ background-color: rgb(20, 220, 193);
+    position: absolute; 
+    top: 12px; left:340px ;}
+.ch5{ background-color:cyan;
+    position: absolute; 
+    top: 12px; left:450px ;}

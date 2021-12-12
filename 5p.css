@@ -1,0 +1,16 @@
+div{
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    height: 400px;
+    width:300px;
+}
+
+p{
+    padding-left: 50px;/*content will be 50px space inside the div */
+    color: darkblue;
+}
+
+body{
+    background-image: url(./Images/image5.jpg);
+    background-size: cover;
+}

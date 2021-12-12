@@ -1,0 +1,25 @@
+.pa{
+    max-width: 100%;
+    height: 400px;
+    background-color: darkgrey;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ch{
+    height: 300px;
+    width: 250px;
+    background-color: rgb(182, 128, 233);
+    text-align: center;
+}
+
+.ch1{
+    background-color: chartreuse;
+}
+.ch2{
+    background-color: rgb(53, 165, 199);
+}
+.ch3{
+    background-color: rgb(218, 83, 42);
+}

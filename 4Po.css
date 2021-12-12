@@ -1,0 +1,42 @@
+div{
+    background-color: lightskyblue;
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+}
+
+/* position absalute remain in a fixed position */
+.absalute1{
+    position: absolute;
+    top: 100px;
+    left: 30px;
+}
+
+.absalute2{
+    position: absolute;
+    top: 150px;
+    left: 130px;
+}
+/*............. position absalute remain in a fixed position................. */
+
+/* ...position will move about particular position.... */
+
+.sticky1{
+    position: sticky;
+    top: 0px;
+    left: 500px;
+    text-align: center;
+}
+/* ...position will move about particular position.... */
+
+/* ....position will be in fixed position... */
+.fixed1{
+    position: fixed;
+    top: 500px;
+    left: 30px;
+    text-align: center;
+}
+
+/* ....position will be in fixed position... */
+
+

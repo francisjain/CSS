@@ -1,0 +1,23 @@
+div{
+    height: 300px;
+    width: 200px;
+    border: solid 3px cornflowerblue;
+    /* margin-left: 100px;
+    margin-top: 50px; */
+}
+
+#b1{
+    background-color: rgb(217, 235, 246);
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#b2{
+    background-color: rgb(140, 158, 175);
+    margin-left: 320px;
+    margin-top: -306px;
+}
+
+div p{
+    color:rgb(21, 100, 165);
+}
